@@ -53,18 +53,22 @@
   <h1>作品アーカイブ</h1>
 
   <div class="series">
-    <h2>エストリア叙事詩</h2>
+    <h2>凱友伝</h2>
     <div class="chapter-links">
-      <div class="chapter-button">エストリア叙事詩 第1章ページへのリンク</div>
-      <div class="chapter-button">エストリア叙事詩 第2章ページへのリンク</div>
+      <a href="GUD_chapter2_old.html" class="chapter-button">凱友伝 旧二章</a>
+      <a href="GUD_chapter2.5_old.html" class="chapter-button">凱友伝 旧二.五章</a>
+      <a href="GUD_chapter1_new.html" class="chapter-button">凱友伝 新一章</a>
+      <a href="GUD_cchaos.html" class="chapter-button">凱友伝 カオストーナメント</a>
+      <a href="GUD_chapter3_old.html" class="chapter-button">凱友伝 旧三章</a>
+      <a href="GUD_chapter2_new.html" class="chapter-button">凱友伝 新二章</a>
+      <a href="GUD_chapter3_new.html" class="chapter-button">凱友伝 新三章</a>
     </div>
   </div>
 
   <div class="series">
-    <h2>凱友伝</h2>
+    <h2>エストリア叙事詩</h2>
     <div class="chapter-links">
-      <div class="chapter-button">凱友伝 第1章ページへのリンク</div>
-      <div class="chapter-button">凱友伝 第2章ページへのリンク</div>
+      <a href="estorie_chapter1.html" class="chapter-button">エストリア叙事詩 第1章 制作中！乞うご期待！</a>
     </div>
   </div>
 
