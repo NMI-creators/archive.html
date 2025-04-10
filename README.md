@@ -56,7 +56,7 @@
     <h2>凱友伝</h2>
     <div class="chapter-links">
       <a href="GUD_chapter2_old.html" class="chapter-button">凱友伝 旧二章</a>
-      <a href="GUD_chapter2.5_old.html" class="chapter-button">凱友伝 旧二.五章</a>
+      <a href="https://nmi-creators.github.io/GUD_chapter2.5_old.html/" class="chapter-button">凱友伝 旧二.五章</a>
       <a href="GUD_chapter1_new.html" class="chapter-button">凱友伝 新一章</a>
       <a href="GUD_cchaos.html" class="chapter-button">凱友伝 カオストーナメント</a>
       <a href="GUD_chapter3_old.html" class="chapter-button">凱友伝 旧三章</a>
